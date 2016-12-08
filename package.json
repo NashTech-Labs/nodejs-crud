@@ -11,6 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/knoldus/nodejs-crud.git"
   },
+
+"engines": {
+  "node" : "5.8.0"
+},
+
   "author": "",
   "license": "ISC",
   "bugs": {

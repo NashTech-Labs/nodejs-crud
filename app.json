@@ -1,0 +1,5 @@
+{
+  "name": "nodeJs-crud",
+  "description": "This app creates crud operations using node, mongo and ejs",
+  "keywords": ["nodejs", "express","ejs","mongodb"]
+}
