@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-js-playlist.git"
+    "url": "git+https://github.com/knoldus/nodejs-crud.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-js-playlist/issues"
+    "url": "https://github.com/knoldus/nodejs-crud/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/node-js-playlist#readme",
+  "homepage": "https://github.com/knoldus/nodejs-crud/blob/master/README.md",
   "dependencies": {
     "body-parser": "^1.15.2",
     "ejs": "^2.5.2",
